@@ -1,0 +1,13 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="111290" filedate="2023-07-15 11:18:15" width="907px" height="1440px"/>
+<image path="images/front.jpg" filesize="159506" filedate="2023-07-15 11:18:15" width="916px" height="1440px"/>
+<image path="images/plate1.png" filesize="310058" filedate="2023-07-15 11:18:15" width="932px" height="1358px"/>
+<image path="images/plate2.png" filesize="223490" filedate="2023-07-15 11:18:15" width="983px" height="1353px"/>
+<image path="images/plate3.png" filesize="206057" filedate="2023-07-15 11:18:15" width="964px" height="1370px"/>
+<image path="images/plate4.png" filesize="300492" filedate="2023-07-15 11:18:15" width="918px" height="1365px"/>
+<image path="images/plate5.png" filesize="215236" filedate="2023-07-15 11:18:15" width="926px" height="1370px"/>
+<image path="images/plate6.png" filesize="366964" filedate="2023-07-15 11:18:15" width="935px" height="1370px"/>
+<image path="images/qr64986.png" filesize="335" filedate="2023-07-15 11:18:15" width="296px" height="296px"/>
+<image path="images/spines.jpg" filesize="93865" filedate="2023-07-15 11:18:15" width="395px" height="1440px"/>
+<image path="images/titlepage.png" filesize="45155" filedate="2023-07-15 11:18:15" width="826px" height="1440px"/>
+</images>
